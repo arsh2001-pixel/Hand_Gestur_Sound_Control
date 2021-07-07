@@ -1,1 +1,1 @@
-# Hand_Gestur_Sound_Control
+# Hand_Gesture_Sound_Control
